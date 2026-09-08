@@ -4,13 +4,13 @@
 
 ---
 
-## What is this?
+# What is this?
 
 [NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
 
 ---
 
-## How GitHub Sync works
+# How GitHub Sync works
 
 1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
 2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
@@ -19,7 +19,7 @@
 
 ---
 
-## Repository structure
+# Repository structure
 
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
 
@@ -40,7 +40,7 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Supported languages
+# Supported languages
 
 | Language | Extension |
 |---|---|
@@ -58,7 +58,7 @@ Python For Beginners/python-hello-world/submission-0.py
 
 ---
 
-## Settings
+# Settings
 
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
